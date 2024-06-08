@@ -7,12 +7,12 @@ using System.Windows;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("ohook-GUI")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("OHOOK GUI")]
+[assembly: AssemblyDescription("An office cracker which based on ohook")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Aunt_nuozhen")]
 [assembly: AssemblyProduct("ohook-GUI")]
-[assembly: AssemblyCopyright("Copyright ©  2023")]
+[assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
